@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 小王子 | Coder's Blog]]></title>
+  <title><![CDATA[分类: 小王子 | Coder's Blog]]></title>
   <link href="http://coderblog.github.io/blog/categories/xiao-wang-zi/atom.xml" rel="self"/>
   <link href="http://coderblog.github.io/"/>
-  <updated>2017-02-05T21:05:05+08:00</updated>
+  <updated>2017-02-05T21:09:54+08:00</updated>
   <id>http://coderblog.github.io/</id>
   <author>
     <name><![CDATA[Freedom]]></name>
