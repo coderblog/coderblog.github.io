@@ -37,7 +37,6 @@ Jul &hellip;">
 <script type="text/javascript">
 
 function addBlankTargetForLinks () {
-
   $('a[href^="http"]').each(function(){
       $(this).attr('target', '_blank');
   });
@@ -46,6 +45,7 @@ function addBlankTargetForLinks () {
 $(document).bind('DOMNodeInserted', function(event) {
   addBlankTargetForLinks();
 });
+
 
 </script>
 
