@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://coderblog.github.io/atom.xml" rel="self"/>
   <link href="http://coderblog.github.io/"/>
-  <updated>2017-02-05T20:08:23+08:00</updated>
+  <updated>2017-02-05T20:10:33+08:00</updated>
   <id>http://coderblog.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2017-01-20 03:14:00]]></title>
+    <link href="http://coderblog.github.io/blog/2017/01/20/031400/"/>
+    <updated>2017-01-20T03:14:00+08:00</updated>
+    <id>http://coderblog.github.io/blog/2017/01/20/031400</id>
+    <content type="html"><![CDATA[<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314001.jpg" alt="" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314002.jpg" alt="" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314003.jpg" alt="" /></p>
+
+<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200314004.jpg" alt="" /></p>
+
+<blockquote><p>幸福的地铺，多少年没睡这么硬的床了，功夫不负有心人，几天下来已经驾轻就熟了，老婆评价，我这个理工科出身的奶爸还是比较靠谱的。这几天老爸乐的每天5点就起来做饭了，一边做一边哼着小曲，我想老爸乐的是：老王家终于开枝散叶了。一家人就这样幸福，健康，快乐的生活下去吧，永远，永远，永远……</p>
+
+<p><a href="http://t.qq.com/p/t/502007048046891">by http://t.qq.com/freeness</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2017-01-20 03:03:04]]></title>
+    <link href="http://coderblog.github.io/blog/2017/01/20/030304/"/>
+    <updated>2017-01-20T03:03:04+08:00</updated>
+    <id>http://coderblog.github.io/blog/2017/01/20/030304</id>
+    <content type="html"><![CDATA[<p><img src="http://okqmqrbgo.bkt.clouddn.com/201701200303041.jpg" alt="" /></p>
+
+<blockquote><p>2017年1月16日，小王子驾到，生命的延续，太奇妙了。</p>
+
+<p><a href="http://t.qq.com/p/t/511977069080599">by http://t.qq.com/freeness</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-04-18 20:13:32]]></title>
+    <link href="http://coderblog.github.io/blog/2011/04/18/201332/"/>
+    <updated>2011-04-18T20:13:32+08:00</updated>
+    <id>http://coderblog.github.io/blog/2011/04/18/201332</id>
+    <content type="html"><![CDATA[<p><img src="http://okqmqrbgo.bkt.clouddn.com/201104182013321.jpg" alt="" /></p>
+
+<blockquote><p>摄影技术明显进步！大家鉴定一下！</p>
+
+<p><a href="http://t.qq.com/p/t/5082080516145">by http://t.qq.com/freeness</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-07-23 11:48:04]]></title>
+    <link href="http://coderblog.github.io/blog/2010/07/23/114804/"/>
+    <updated>2010-07-23T11:48:04+08:00</updated>
+    <id>http://coderblog.github.io/blog/2010/07/23/114804</id>
+    <content type="html"><![CDATA[<blockquote><p>今天吃什么？</p>
+
+<p><a href="http://t.qq.com/p/t/26001052209229">by http://t.qq.com/freeness</a></p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
